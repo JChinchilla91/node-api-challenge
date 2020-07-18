@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    I learned what it was, had no idea about it before! I learned express is a very open framework with built in tools to help developers
+
 - [ ] Describe Middleware?
+
+    Middleware are functions that get executed in the order they are introduced in the server code
 
 - [ ] Describe a Resource?
 
+    Resources are key value pairs in a database
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    A 200+ status code
+
 - [ ] How can we partition our application into sub-applications?
+
+    By building out folders and subfolders to organize our application
 
 ## Minimum Viable Product
 
